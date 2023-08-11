@@ -30925,7 +30925,7 @@ return A.h(A.atS(),$async$atR)
 case 3:s=4
 return A.h(A.wn(),$async$atR)
 case 4:p=e
-o=A.brt(p.c+"+"+p.d,"http://staging.impruvonhealth.com")
+o=A.brt(p.c+"+"+p.d,"https://staging.impruvonhealth.com")
 n=c?B.e.j(a.a):null
 o.b0L(n,a.c)
 q=o
@@ -114052,12 +114052,12 @@ break
 case 4:s=7
 return A.h(A.atS(),$async$A6)
 case 7:m=b
-q=A.bG9(o+n,"http://staging.impruvonhealth.com",m,A.bJz(m.a,"dio_cache"),!0)
+q=A.bG9(o+n,"https://staging.impruvonhealth.com",m,A.bJz(m.a,"dio_cache"),!0)
 s=1
 break
 s=5
 break
-case 6:q=A.brt(o+n,"http://staging.impruvonhealth.com")
+case 6:q=A.brt(o+n,"https://staging.impruvonhealth.com")
 s=1
 break
 case 5:case 1:return A.m(q,r)}})
@@ -125596,7 +125596,7 @@ case 6:if(c!=null){l=t.N
 k=A.Z(["x-requester-id",B.e.j(c)],l,l)}else k=null
 n=k
 s=8
-return A.h(o.a.yi("http://staging.impruvonhealth.com"+b.d,n,a),$async$vX)
+return A.h(o.a.yi("https://staging.impruvonhealth.com"+b.d,n,a),$async$vX)
 case 8:s=9
 return A.h(o.b.wU(b),$async$vX)
 case 9:case 7:q=1
